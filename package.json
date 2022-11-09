@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "github-label-sync": "^2.2.0"
+  }
+}
