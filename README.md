@@ -5,6 +5,7 @@
 - token.txt 파일에는 github access token 값을 넣어주면 됨
 - repo.txt에는 라벨 적용할 github repo를 owner/repository-name 형식으로 넣어주면 됨
 - 사용 전 npm i 수행하기
+- 실행: node label.js
 
 <참고 자료>
 
